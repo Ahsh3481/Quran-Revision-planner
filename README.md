@@ -1,4 +1,4 @@
-# 📖 Quran Revision Planner
+#  Quran Revision Planner
 
 A simple web based planner that generates a structured Quran revision schedule based on selected Surahs, date range, and reading pace. It also allows exporting the plan as a calendar file (`.ics`) for use in Google Calendar, Apple Calendar, or other calendar apps.
 
