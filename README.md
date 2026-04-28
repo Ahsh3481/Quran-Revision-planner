@@ -4,7 +4,7 @@ A simple web-based planner that generates a structured Quran revision schedule b
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Select **start and end Surah**
 - Choose a **start and end date**
@@ -16,7 +16,7 @@ A simple web-based planner that generates a structured Quran revision schedule b
 
 ---
 
-## 📊 How It Works
+##  How It Works
 
 1. User selects a start and end Surah.
 2. User selects a date range.
